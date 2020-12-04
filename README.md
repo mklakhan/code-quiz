@@ -27,5 +27,10 @@ THEN I can save my initials and score
 ```
 
 
-## Screenshots
+## Notes
+
+```
+Per instructor, quiz could be on any topic
+Consulted with tutor
+```
 
