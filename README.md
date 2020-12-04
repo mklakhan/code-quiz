@@ -32,5 +32,6 @@ THEN I can save my initials and score
 ```
 Per instructor, quiz could be on any topic
 Consulted with tutor
+Published at - https://mklakhan.github.io/code-quiz/
 ```
 
